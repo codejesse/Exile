@@ -1,0 +1,456 @@
+{
+    "drinks": [
+        {
+            "id": 1,
+            "name": "EXILE BLEND",
+            "desc": "A truly “all purpose” coffee. We blend our own beans for this signature coffee.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 2,
+            "name": "CHURCH BLEND",
+            "desc": "A deep dark coffee blended from beans we roast ourselves.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 3,
+            "name": "GUATEMALA ANTIGUA ",
+            "desc": "A balanced bean with natural nutty, spice, and chocolate flavors.",
+            "amount": "65 TL (150 gr.)"
+        },
+        {
+            "id": 4,
+            "name": "KENYA KIRINYAGA AA",
+            "desc": "A full-bodied coffee with a complex spectrum of citrus and apple aromas.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 5,
+            "name": "ETHIOPIA SIDAMO",
+            "desc": "Bright with a silky rich body. Intense apricot, milk chocolate, and tarragon.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 6,
+            "name": "HONDURAS",
+            "desc": "A well-rounded coffee with notes of fig, clove, orange peel, and chamomile.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 7,
+            "name": "COLOMBIA",
+            "desc": "A high quality balanced coffee with natural notes of baked apple, milk chocolate, citrus and hazelnut.",
+            "amount": "75 TL (150 gr.)"
+        },
+        {
+            "id": 8,
+            "name": "HIBISCUS TEA",
+            "desc": "Our own natural blend of hibiscus and dried orange peel, seved with a cinnamon stick.",
+            "amount": "TEA 22 TL"
+        },
+        {
+            "id": 9,
+            "name": "HOMEMADE CHAI TEA LATTE",
+            "desc": "An aromatic milky drink with fresh ginger, clove, star anise, cinnamon, cardamom, black pepper, nutmeg and black tea.",
+            "amount": "28 TL"
+        },
+        {
+            "id": 10,
+            "name": "HOT CHOCOLATE",
+            "desc": "Cadbury cocoa & genuine dark chocolate.",
+            "amount": "30 TL"
+        },
+        {
+            "id": 11,
+            "name": "MULLED WINE (seasonaL)",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 12,
+            "name": "LEMONADE",
+            "desc": "...",
+            "amount": "24 TL"
+        },
+        {
+            "id": 13,
+            "name": "ICED HIBISCUS TEA",
+            "desc": "...",
+            "amount": "23 TL"
+        },
+        {
+            "id": 14,
+            "name": "ICED CHAI TEA LATTE",
+            "desc": "...",
+            "amount": "28 TL"
+        },
+        {
+            "id": 15,
+            "name": "CHAI TEA FLOAT (with ice cream)",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 16,
+            "name": "ICED CHOCOLATE",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 17,
+            "name": "CYPRUS SANGRIA (seasonal)",
+            "desc": "A sweet blend of red wine & fruit juice, served with frozen cherries and an orange slice",
+            "amount": "33 TL"
+        },
+        {
+            "id": 18,
+            "name": "FROZEN SANGRIA (seasonal)",
+            "desc": "...",
+            "amount": "34 TL"
+        },
+        {
+            "id": 19,
+            "name": "HARIO V60",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 20,
+            "name": "KALITA WAVE",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 21,
+            "name": "CLEVER",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 22,
+            "name": "AEROPRESS",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 23,
+            "name": "DOUBLE ESPRESSO",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 24,
+            "name": "AMERICANO",
+            "desc": "...",
+            "amount": "23 TL"
+        },
+        {
+            "id": 25,
+            "name": "LATTE",
+            "desc": "...",
+            "amount": "25 TL"
+        },
+        {
+            "id": 26,
+            "name": "CAPPUCCINO",
+            "desc": "...",
+            "amount": "25 TL"
+        },
+        {
+            "id": 27,
+            "name": "MOCHA",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 28,
+            "name": "AFFOGATO",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 29,
+            "name": "SALTED CARAMEL LATTE",
+            "desc": "Homemade caramel sauce, a pinch of salt and an optional shot of brandy added to our classic latte. 36 TL (with brandy)",
+            "amount": "30 TL, 36 TL (with brandy)"
+        },
+        {
+            "id": 30,
+            "name": "TURKISH COFFEE",
+            "desc": "...",
+            "amount": "18 TL"
+        },
+        {
+            "id": 31,
+            "name": "ICED AMERICANO",
+            "desc": "...",
+            "amount": "25 TL"
+        },
+        {
+            "id": 32,
+            "name": "ICED LATTE",
+            "desc": "...",
+            "amount": "27 TL"
+        },
+        {
+            "id": 33,
+            "name": "ICED MOCHA",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 34,
+            "name": "ICED GINGER FRAPPE",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 35,
+            "name": "ESPRESSO LEMONADE",
+            "desc": "...",
+            "amount": "28 TL"
+        },
+        {
+            "id": 36,
+            "name": "COLD BREW",
+            "desc": "...",
+            "amount": "27 TL"
+        },
+        {
+            "id": 37,
+            "name": "ORANGE SPICED AMERICANO",
+            "desc": "...",
+            "amount": "28 TL"
+        },
+        {
+            "id": 38,
+            "name": "FIZZY GINGER AMERICANO",
+            "desc": "...",
+            "amount": "35 TL"
+        },
+        {
+            "id": 39,
+            "name": "ICED CARAMEL LATTE",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 40,
+            "name": "BLACK DEATH",
+            "desc": "Espresso and zivaniya over ice with activated charcoal.",
+            "amount": "35 TL"
+        },
+        {
+            "id": 41,
+            "name": "SOY MILK",
+            "desc": "EXTRAS",
+            "amount": "4 TL"
+        }
+    ],
+    "Food": [
+        {
+            "id": 1,
+            "name": "BARNEY",
+            "desc": "A classic grilled cheese sandwich with our perfect blend of cheeses. Its gooey, stretchy, and satisfying. Pairs perfectly with our Öz Lale wine.",
+            "amount": "28 TL"
+        },
+        {
+            "id": 2,
+            "name": "BENJI",
+            "desc": "Grilled chicken and kasar cheese with our own honey mustard.",
+            "amount": "33 TL"
+        },
+        {
+            "id": 3,
+            "name": "RUBY",
+            "desc": "Halloumi and sour cherry jam with fresh basil. Tastes like Cyprus.",
+            "amount": "33 TL"
+        },
+        {
+            "id": 4,
+            "name": "OZIE",
+            "desc": "Spicy chicken with gouda cheese and our garlic and pepper spread. It hurts good.",
+            "amount": "33 TL"
+        },
+        {
+            "id": 5,
+            "name": "PIGGY",
+            "desc": "Bacon and cheese with fig jam. Sweet and salty and perfectly balanced. Pairs well with our Alev wine.",
+            "amount": "40 TL"
+        },
+        {
+            "id": 6,
+            "name": "VEGAN SALAD",
+            "desc": "...",
+            "amount": "28 TL"
+        },
+        {
+            "id": 7,
+            "name": "GARDEN SALAD WITH GRILLED CHICKEN",
+            "desc": "Optional Dressings: • Honey Mustard Dressing • Pomegranate Vinaigrette",
+            "amount": "32 TL"
+        },
+        {
+            "id": 8,
+            "name": "SAINT FRANK",
+            "desc": "Jumbo hot dog on a toasted bun with potato salad, pickled red onions, kale strings, french fries & ketchup",
+            "amount": "28 TL"
+        },
+        {
+            "id": 10,
+            "name": "COLD CHICKEN SALAD BAGUETTE",
+            "desc": "Chicken salad with our homemade mayo, pickled red onions, sun dried tomatoes, and kale strings on a French style baguette.",
+            "amount": "32 TL"
+        },
+        {
+            "id": 11,
+            "name": "JONAH",
+            "desc": "A fresh baguette with homemade meatballs, tomato sauce, grated cheese, grilled onions and peppers.",
+            "amount": "50 TL"
+        },
+        {
+            "id": 12,
+            "name": "THE PRINCESS (SPICY FRIED CHICKEN)",
+            "desc": "Crispy spicy fried chicken inspired by Prince's Hot Chicken in Nashville. Served on toasted bread with pickled onions and kale strings.",
+            "amount": "48 TL"
+        },
+        {
+            "id": 13,
+            "name": "BRISTOL BURGER",
+            "desc": "tomato, pickles, onions, and our own sangria marmelade on the side.",
+            "amount": "44 TL"
+        },
+        {
+            "id": 14,
+            "name": "ABOMINATION",
+            "desc": "A burger that shouldnt exist. A giant beef burger with onions and tomatoes & two grilled cheese sandwiches as the bun.",
+            "amount": "65 TL, 70 TL (with bacon)"
+        },
+        {
+            "id": 15,
+            "name": "FRENCH TOAST STACK",
+            "desc": "Thick cut toast dipped in our perfectly seasoned egg mix and cooked on the skillet. Served with our homemade syrup, thick whipped cream, and fresh fruit",
+            "amount": "32 TL"
+        },
+        {
+            "id": 16,
+            "name": "MERT",
+            "desc": "Our breakfast sandwich: homemade falafel, egg and cheese on a toasted ciabatta bun, served with tomato and attitude",
+            "amount": "38 TL"
+        },
+        {
+            "id": 17,
+            "name": "RAMEN OMELETTE",
+            "desc": "Spiced ramen noodles fried into an omlette with two eggs & fresh herbs with hot sauce on two pieces of toast.",
+            "amount": "25 TL"
+        },
+        {
+            "id": 18,
+            "name": "CHICKEN TACO ",
+            "desc": "Crispy fried homemade tortillas filled with seasoned chicken, cheese, lettuce and our own tomato salsa.(available every Tuesday)",
+            "amount": "24 TL"
+        },
+        {
+            "id": 19,
+            "name": "BEEF TACO",
+            "desc": "Crispy fried homemade tortillas filled with seasoned beef, cheese, lettuce and our own tomato salsa.(available every Tuesday)",
+            "amount": "28 TL"
+        },
+        {
+            "id": 20,
+            "name": "FALAFEL TACO",
+            "desc": "Crispy fried homemade tortillas filled with falafel, cheese, lettuce and our own tomato salsa.(available every Tuesday)",
+            "amount": "23 TL"
+        },
+        {
+            "id": 21,
+            "name": "HOMEMADE BROWNIE",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 22,
+            "name": "COOKIE",
+            "desc": "...",
+            "amount": "18 TL"
+        },
+        {
+            "id": 23,
+            "name": "ORANGE GLAZED SCONE",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 24,
+            "name": "APPLE CRUMBLE CAKE",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 25,
+            "name": "GLAZED DONUT",
+            "desc": "...",
+            "amount": "17 TL"
+        },
+        {
+            "id": 26,
+            "name": "LEMON GLAZED DONUT",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 27,
+            "name": "CHOCOLATE COVERED DONUT",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 28,
+            "name": "JAM FILLED DONUT",
+            "desc": "...",
+            "amount": "21 TL"
+        },
+        {
+            "id": 29,
+            "name": "COCONUT, CHOCOLATE & CARAMEL DONUT",
+            "desc": "...",
+            "amount": "21 TL"
+        },
+        {
+            "id": 30,
+            "name": "PEANUT BUTTER & CHOCOLATE DONUT",
+            "desc": "...",
+            "amount": "21 TL"
+        },
+        {
+            "id": 31,
+            "name": "SAFFRON CUSTARD DONUT",
+            "desc": "...",
+            "amount": "23 TL"
+        },
+        {
+            "id": 32,
+            "name": "CANDIED BACON & ESPRESSO GLAZED DONUT",
+            "desc": "...",
+            "amount": "27 TL"
+        },
+        {
+            "id": 33,
+            "name": "SAN SEBASTIAN CHEESECAKE",
+            "desc": "Optional Cheesecake Sauces: • Caramel • Strawberry & Mint",
+            "amount": "23 TL"
+        },
+        {
+            "id": 34,
+            "name": "FRIES",
+            "desc": "EXTRAS",
+            "amount": "20 TL"
+        },
+        {
+            "id": 35,
+            "name": "BACON ",
+            "desc": "EXTRAS",
+            "amount": "12 TL"
+        }
+    ]
+}

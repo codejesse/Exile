@@ -1,0 +1,456 @@
+{
+    "drinks": [
+        {
+            "id": 1,
+            "name": "EXILE BLEND",
+            "desc": "Her amaca uygun bir kahve. Kavurduğumuz nitelikli çekirdeklerden yapılan bir blend.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 2,
+            "name": "CHURCH BLEND",
+            "desc": "Koyu kahve sevenler için. Koyu kavrulmuş çekirdeklerden yapılan bir blend.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 3,
+            "name": "GUATEMALA ANTIGUA ",
+            "desc": "Dengeli bir kahve. Doğal çerez, baharat ve çikolata aromalara sahiptir.",
+            "amount": "65 TL (150 gr.)"
+        },
+        {
+            "id": 4,
+            "name": "KENYA KİRİNYAGA AA",
+            "desc": "Dolgun gövdeli, turunçgil meyveler ve elma aromalar öne çıkıyor.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 5,
+            "name": "ETİYOPYA SİDAMO",
+            "desc": "Ipeksi bir gövdesi olan, ferah bir kahve. Kayısı, çikolata ve tarragon aromalar.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 6,
+            "name": "HONDURAS",
+            "desc": "Dolgun gövdeli, dengeli bir kahve. İncir, karanfil, portakal kabuğu ve papatya aromalara sahip.",
+            "amount": "70 TL (150 gr.)"
+        },
+        {
+            "id": 7,
+            "name": "KOLOMBİYA",
+            "desc": "Yüksek kalite kahve çekirdeği. Pişmiş elma, sütlü çikolata, fındık ve türünçgil aromalara sahip. ",
+            "amount": "75 TL (150 gr.)"
+        },
+        {
+            "id": 8,
+            "name": "HİBİSKÜS ÇAYI",
+            "desc": "Portakal kabuğu ile karıştırıp demliyoruz. Tarçın çubuğu ile servis edilir.",
+            "amount": "TEA 22 TL"
+        },
+        {
+            "id": 9,
+            "name": "EV YAPIMI CHAI TEA LATTE",
+            "desc": "Zencefil, kakule, karanfil, tarçın, karabiber, yıldız anasonu, muskat, esmer şekeri, siyah çay ve latte sütü",
+            "amount": "28 TL"
+        },
+        {
+            "id": 10,
+            "name": "SICAK ÇİKOLATA",
+            "desc": "Cadbury kakao ve bitter çikolata ile yapılır.",
+            "amount": "30 TL"
+        },
+        {
+            "id": 11,
+            "name": "SICAK ŞARAP (mevsime göre)",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 12,
+            "name": "LİMONATA",
+            "desc": "...",
+            "amount": "24 TL"
+        },
+        {
+            "id": 13,
+            "name": "BUZLU HİBİSKÜS ÇAYI",
+            "desc": "...",
+            "amount": "23 TL"
+        },
+        {
+            "id": 14,
+            "name": "BUZLU CHAI TEA LATTE",
+            "desc": "...",
+            "amount": "28 TL"
+        },
+        {
+            "id": 15,
+            "name": "DONDURMALI CHAI TEA SODA",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 16,
+            "name": "BUZLU ÇİKOLATA",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 17,
+            "name": "KIBRIS SANGRIASI (mevsime göre)",
+            "desc": "Kırmızı şarap, nar suyu, vişne suyu, dondurulmuş vişne ve taze portakal.",
+            "amount": "33 TL"
+        },
+        {
+            "id": 17,
+            "name": "BUZLAÇ SANGRİA (mevsime göre)",
+            "desc": "...",
+            "amount": "34 TL"
+        },
+        {
+            "id": 19,
+            "name": "HARIO V60",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 20,
+            "name": "KALITA WAVE",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 21,
+            "name": "CLEVER",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 22,
+            "name": "AEROPRESS",
+            "desc": "...",
+            "amount": "26 TL"
+        },
+        {
+            "id": 23,
+            "name": "DOUBLE ESPRESSO",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 24,
+            "name": "AMERICANO",
+            "desc": "...",
+            "amount": "23 TL"
+        },
+        {
+            "id": 25,
+            "name": "LATTE",
+            "desc": "...",
+            "amount": "25 TL"
+        },
+        {
+            "id": 26,
+            "name": "CAPPUCCINO",
+            "desc": "...",
+            "amount": "25 TL"
+        },
+        {
+            "id": 27,
+            "name": "MOCHA",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 28,
+            "name": "AFFOGATO",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 29,
+            "name": "TUZLU KARAMEL LATTE",
+            "desc": "Ev yapımı karamel sosu ve isteğe bağlı brandy eklenebilir.",
+            "amount": "30 TL, 36 TL (brandy ile)"
+        },
+        {
+            "id": 30,
+            "name": "TÜRK KAHVESİ",
+            "desc": "...",
+            "amount": "18 TL"
+        },
+        {
+            "id": 31,
+            "name": "BUZLU AMERİCANO",
+            "desc": "...",
+            "amount": "25 TL"
+        },
+        {
+            "id": 32,
+            "name": "BUZLU LATTE",
+            "desc": "...",
+            "amount": "27 TL"
+        },
+        {
+            "id": 33,
+            "name": "BUZLU MOCHA",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 34,
+            "name": "BUZLU GİNGER FRAPPE",
+            "desc": "...",
+            "amount": "30 TL"
+        },
+        {
+            "id": 35,
+            "name": "ESPRESSO LİMONATA",
+            "desc": "...",
+            "amount": "28 TL"
+        },
+        {
+            "id": 36,
+            "name": "SOĞUK DEMLEME KAHVE",
+            "desc": "...",
+            "amount": "27 TL"
+        },
+        {
+            "id": 37,
+            "name": "BAHARATLI PORTAKALLI AMERİCANO",
+            "desc": "...",
+            "amount": "28 TL"
+        },
+        {
+            "id": 38,
+            "name": "KÖPÜKLÜ ZENCEFİLLİ AMERİCANO",
+            "desc": "...",
+            "amount": "35 TL"
+        },
+        {
+            "id": 39,
+            "name": "BUZLU KARAMEL LATTE",
+            "desc": "...",
+            "amount": "32 TL"
+        },
+        {
+            "id": 40,
+            "name": "BLACK DEATH",
+            "desc": "Buz ve aktif karbon üzerinde espresso ve zivaniya.",
+            "amount": "35 TL"
+        },
+        {
+            "id": 41,
+            "name": "SOYA SÜTÜ ",
+            "desc": "EK OLARAK:",
+            "amount": "4 TL"
+        }
+    ],
+    "Food": [
+        {
+            "id": 1,
+            "name": "BARNEY",
+            "desc": "Klasik peynirli tostumuz. Birbirleriyle muhteşem uyumu sağlayan peynir çeşitlerimizle hazırlanıyor. Yumuşak,  esnek ve tatmin edici. Bir tane istediğini biliyorsun. Öz Lale şarabımızla çok güzel uyuyor..",
+            "amount": "28 TL"
+        },
+        {
+            "id": 2,
+            "name": "BENJI",
+            "desc": "Baharatlı tavuk parçaları, kaşar peyniri ve kendi yaptığımız ballı hardal sosumuz.",
+            "amount": "33 TL"
+        },
+        {
+            "id": 3,
+            "name": "RUBY",
+            "desc": "Hellim, vişne reçeli ve onlara eşlik eden taze fesleğen. Tadı aynı Kıbrıs gibi.",
+            "amount": "33 TL"
+        },
+        {
+            "id": 4,
+            "name": "OZIE",
+            "desc": "Acılı tavuk, guda peyniriö biberli sarımsak sosumuz. Zevkli bir acıdır.",
+            "amount": "33 TL"
+        },
+        {
+            "id": 5,
+            "name": "PIGGY",
+            "desc": "Bacon, peynir ve incir reçeli. Tatlı ve tuzlunun 40 TL mükemmel dengesi. Alev şarabımızla deneyin..",
+            "amount": "40 TL"
+        },
+        {
+            "id": 6,
+            "name": "VEGAN SALATASI",
+            "desc": "//",
+            "amount": "28 TL"
+        },
+        {
+            "id": 7,
+            "name": "MEVSİM SALATASI VE IZGARA TAVUK",
+            "desc": "Sos Seçenekleri: • Ballı Hardal•  Nar Ekşili Vinagret",
+            "amount": "32 TL"
+        },
+        {
+            "id": 8,
+            "name": "SAINT FRANK",
+            "desc": "Ekstra uzun sosis, rus salatası, kırmızı soğan turşusu, yeşillik, patates kızartması ve ketçap.",
+            "amount": "28 TL"
+        },
+        {
+            "id": 10,
+            "name": "BAGET EKMEĞİNDE SOĞUK TAVUK SALATASI",
+            "desc": "Taze baget ekmeğinde ev yapımı mayonez ile hazırlanan tavuk salatası, kurutulmuş domates, yeşillik, soğan turşusu ve isteğe göre bacon ile servis edilir.",
+            "amount": "32 TL"
+        },
+        {
+            "id": 11,
+            "name": "JONAH",
+            "desc": "Taze baget ekmeği, ev yapımı köfte, domates sosu, rendelenmiş peynir, kızarmış soğan ve biber.",
+            "amount": "50 TL"
+        },
+        {
+            "id": 12,
+            "name": "THE PRINCESS (ACILI KIZARTILMIŞ TAVUK)",
+            "desc": "Nashville’de ki meşhur acılı kızartılmış tavuktan ilham alarak mücize yarattık. Kızarmış ekmek, soğan turşusu ve yeşillik ile servis edilir.",
+            "amount": "48 TL"
+        },
+        {
+            "id": 13,
+            "name": "BRISTOL BURGER",
+            "desc": "Amerikan tarz buharda pişirilmiş peynirli burger. Marul, domates, turşu, soğan ve yanında ev yapımı sangria marmelat ile servis edilir.",
+            "amount": "44 TL"
+        },
+        {
+            "id": 14,
+            "name": "ABOMINATION",
+            "desc": "Var olmaması gereken bir burger. Burger ekmeği olarak iki tost sandviçi kullanıyoruz. İçinde kocaman dana burger, soğan ve domates koyuyoruz.",
+            "amount": "65 TL, 70 TL (bacon ile)"
+        },
+        {
+            "id": 15,
+            "name": "YUMURTALI EKMEK",
+            "desc": "Kalın kesim tost ekmeği baharatlanmış yumurta karışımına batırılıyor ve tavada pişiyor. Ev yapımı şurup, krem şanti ve taze meyveyle servis edilir.",
+            "amount": "32 TL"
+        },
+        {
+            "id": 16,
+            "name": "MERT",
+            "desc": "Kahvaltı sandviçimiz: kızartılmış ciabatta ekmeğinde ev yapımı falafel, peynir ve yumurta. İsteğe göre bacon koyuyoruz domates ve tarz ile servis edilir.",
+            "amount": "38 TL"
+        },
+        {
+            "id": 17,
+            "name": "RAMEN OMELETTE",
+            "desc": "Baharatlı erişte içinde iki yumurta, maydonoz ve yeşil soğan ile omelet yapıyoruz. Kızarmış ekmek ve acı sos ile servis edilir.",
+            "amount": "25 TL"
+        },
+        {
+            "id": 18,
+            "name": "TAVUK TACO ",
+            "desc": "Çıtır kızartılmış ev yapımı tortilla ekmeğinde baharatlı tavuk, peynir marul ve bizim özel salsa sosumuz.(her salı günü)",
+            "amount": "24 TL"
+        },
+        {
+            "id": 19,
+            "name": "ET TACO",
+            "desc": "Çıtır kızartılmış ev yapımı tortilla ekmeğinde baharatlı et, peynir, marul ve bizim özel salsa sosumuz.(her salı günü)",
+            "amount": "28 TL"
+        },
+        {
+            "id": 20,
+            "name": "FALAFEL TACO",
+            "desc": "Çıtır kızartılmış ev yapımı tortilla ekmeğinde falafel, peynir, marul ve bizim özel salsa sosumuz.(her salı günü)",
+            "amount": "23 TL"
+        },
+        {
+            "id": 21,
+            "name": "EV YAPIMI BROWNIE",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 22,
+            "name": "COOKIE",
+            "desc": "...",
+            "amount": "18 TL"
+        },
+        {
+            "id": 23,
+            "name": "PORTAKALLI SCONE",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 24,
+            "name": "ELMALI KEK",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 25,
+            "name": "GLAZÜRLÜ DONUT",
+            "desc": "...",
+            "amount": "17 TL"
+        },
+        {
+            "id": 26,
+            "name": "LİMON GLAZÜRLÜ DONUT",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 27,
+            "name": "ÇİKOLATA KAPLI DONUT",
+            "desc": "...",
+            "amount": "20 TL"
+        },
+        {
+            "id": 28,
+            "name": "REÇEL DOLGULU DONUT",
+            "desc": "...",
+            "amount": "21 TL"
+        },
+        {
+            "id": 29,
+            "name": "KARAMEL, HİNDİSTAN CEVİZİ, ÇIKOLATALI DONUT",
+            "desc": "...",
+            "amount": "21 TL"
+        },
+        {
+            "id": 30,
+            "name": "FISTIK EZMESİ VE ÇİKOLATA DONUT",
+            "desc": "...",
+            "amount": "21 TL"
+        },
+        {
+            "id": 31,
+            "name": "SAFRANLI PUDİNG DOLGULU DONUT",
+            "desc": "...",
+            "amount": "23 TL"
+        },
+        {
+            "id": 32,
+            "name": "BACON ŞEKERİ VE ESPRESSO GLAZÜRLÜ DONUT",
+            "desc": "...",
+            "amount": "27 TL"
+        },
+        {
+            "id": 33,
+            "name": "SAN SEBASTIAN CHEESECAKE",
+            "desc": "Cheesecake için sos seçenekler: • Çilek ve nane • Karamel",
+            "amount": "23 TL"
+        },
+        {
+            "id": 34,
+            "name": "PATATES KIZARTMASI ",
+            "desc": "EK OLARAK",
+            "amount": "20 TL"
+        },
+        {
+            "id": 35,
+            "name": "BACON ",
+            "desc": "EK OLARAK",
+            "amount": "12 TL"
+        }
+    ]
+}
