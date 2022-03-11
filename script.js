@@ -69,33 +69,17 @@ getEnglish();
 
 //buttons logic
 function turkishAction() {
-  if (english.style.display === "none") {
-    turkish.style.display === "block";
-  } else {
-    english.style.display = "block";
-    turkish.style.display = "none";
-  }
-  if (english2.style.display === "none") {
-    turkish2.style.display === "block";
-  } else {
-    english2.style.display = "block";
-    turkish2.style.display = "none";
-  }
+  english.classList.toggle("english-class");
+  turkish.classList.toggle("english-class");
+  english2.classList.toggle("english-class");
+  turkish2.classList.toggle("english-class");
   console.log(turkish2);
 }
 
 function englishAction() {
-  if (turkish.style.display === "block") {
-    english.style.display === "none";
-  } else {
-    english.style.display = "none";
-    turkish.style.display = "block";
-  }
-  if (english2.style.display === "none") {
-    turkish2.style.display === "block";
-  } else {
-    english2.style.display = "block";
-    turkish2.style.display = "none";
-  }
+  english.classList.toggle("english-class");
+  turkish.classList.toggle("english-class");
+  english2.classList.toggle("english-class");
+  turkish2.classList.toggle("english-class");
   console.log(turkish);
 }
